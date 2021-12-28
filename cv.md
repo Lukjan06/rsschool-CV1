@@ -1,10 +1,11 @@
 ## **rsschool-cv** ##
 ***
-# **Anastasiya Lukjanchikava** #
+![My photo](# "My photo") # **Anastasiya Lukjanchikava** #
 ***
 ## **Contacts** ##
 - **Telephone number**: +375291372265
-- **GitHub**: [My GitHub link](https://github.com/Lukjan06)
+- **GitHub**: [Lukjan06](https://github.com/Lukjan06)
+- **Discord**: [Rijya#0786(Lukjan060](
 - **E-mail**: elka-mogilev@mail.ru
 
 ***
@@ -28,13 +29,15 @@ function multiply(a, b){
 
 ***
 ## **Experience** ##
-I have no experience yet.
+Some little project from r_d school course [My project](https://github.com/Lukjan06/HomeWork3)
 ***
-## **Courses** ##
-- Udemy: [Фундаментальный JavaScript. С практикой и проектами](https://www.udemy.com/course/fundamental-javascript/) - in process.
-- Udemi: [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) - in process.
-- "Front-end Basics:HTML, CSS, JavaScript" by robot_dreams school - in process.
--
+## **Education and Courses** ##
+- Bachelor's degree: Belarussian State University of Physical Culture, Department of Cycling, Skating and Equestrian Sports, honors degree.  
+    **Courses**: 
+    * Udemy: [Фундаментальный JavaScript. С практикой и проектами](https://www.udemy.com/course/fundamental-javascript/) - in process.
+    * Udemi: [50 Projects In 50 Days - HTML, CSS & JavaScript](https://www.udemy.com/course/50-projects-50-days/) - in process.
+    * "Front-end Basics:HTML, CSS, JavaScript" by robot_dreams school - in process.
+***
 ## **Languages** ##
 - English: according to the Common European Framework of Reference (CEFR), my level is between B1 Intermediate and B2 Upper Intermediate. 
 - Russian: native speaker.
